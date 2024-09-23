@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(179, 219, 253);
+}
+
+header{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.buy-button {
+    background-color: #3042e6; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px; 
+    text-align: center;
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px;
+    cursor: pointer; 
+    border-radius: 5px; 
+}
+img{
+    width: 340px;
+}
